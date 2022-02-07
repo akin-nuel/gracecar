@@ -1,0 +1,192 @@
+#first{
+    width:100%;
+    height:700px;
+    background-image: url(matt-antonioli-3akA0XDg1_g-unsplash\ 1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#first .container{
+    margin-top:250px;
+}
+
+#first .container .herotext{
+    font-size: 60px;
+    margin-bottom:50px;
+}
+
+#second{
+    width:100%;
+    height:140px;
+    background-color:black;
+}
+
+#second .black{
+    padding-top:30px;
+}
+
+#third{
+    width:100%;
+    height:auto;
+}
+
+#third .container{
+    margin-top:100px;
+}
+
+#third .text{
+    margin:0;
+}
+
+#third .row .border{
+    margin-right:20px;
+    width:245px;;
+    padding:0;
+}
+
+#third .row .border img{
+    width:245px;
+    height:170px;
+    margin:0;
+    padding:0;
+    background-size: cover;
+}
+
+#third .row .border p{
+    margin-top:40px;
+    font-weight:500;
+}
+
+#third .row .card .card0{
+    width:100;
+    height:200px;
+    background-image:url(Rectangle\ 17.png);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#third .row .card .card1{
+    width:100;
+    height:200px;
+    background-image:url(Rectangle\ 18.png);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#third .row .card .card2{
+    width:100;
+    height:200px;
+    background-image:url(Rectangle\ 19.png);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#third .row .card .card3{
+    width:100;
+    height:200px;
+    background-image:url(Rectangle\ 20.png);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#third .row .card .card4{
+    width:100;
+    height:200px;
+    background-image:url(Rectangle\ 21.png);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#third .row .card .card-body{
+    height:200px;
+    padding-top:50px;
+    padding-right:0;
+    padding-left:0;
+    padding-bottom:0;
+    margin:0;
+}
+
+#third .row .card .card-body .typetxt{
+    width:100%;
+    height:45px;
+    position: static;
+    margin:0;
+    padding-top:50px;
+    /**padding:0;**/
+}
+
+#third .row .card .card-body .typetxt .type1{
+    border-right:1px solid #DFDFDF;
+    border-top: 1px solid #DFDFDF;
+    padding:0;
+    height:45px;
+}
+
+#third .row .card .card-body .typetxt .type2{
+    border-right:1px solid #DFDFDF;
+    border-top: 1px solid #DFDFDF;
+    padding: 0;
+    height:45px;
+}
+
+#third .row .card .card-body .typetxt .type3{
+    border-top: 1px solid #DFDFDF;
+    padding:0;
+    height:45px;
+}
+
+#third .rating .checked{
+    color:orange;
+}
+
+
+.four{
+    width:100%;
+    height: 350px;
+    padding-top:60px;
+    padding-bottom:40px;
+    background-color: #faf8f8;
+}
+
+
+.four .col-4 .circle{
+    width:250px;
+    height:250px;
+    background-color: #dcdcdc;
+    border-radius: 50%;
+}
+
+.col-4 .carousel .img0{
+    width:250px;
+    height:250px;
+    border-radius: 50%;
+    background-image: url("ellipse\ 1.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;;
+}
+
+.col-4 .carousel .img1{
+    width:250px;
+    height:250px;
+    border-radius: 50%;
+    background-image: url("ellipse\ 2.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;;
+}
+
+.col-4 .carousel .img2{
+    width:250px;
+    height:250px;
+    border-radius: 50%;
+    background-image: url("ellipse\ 3.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;;
+}
