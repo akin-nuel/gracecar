@@ -145,7 +145,7 @@
 }
 
 
-.four{
+#four{
     width:100%;
     height: 350px;
     padding-top:60px;
@@ -154,21 +154,21 @@
 }
 
 
-.four .col-4 .circle{
+#four .col-4 .circle{
     width:250px;
     height:250px;
     background-color: #dcdcdc;
     border-radius: 50%;
 }
 
-.col-4 .carousel .img0{
+#four .col-4 .carousel-inner img{
     width:250px;
     height:250px;
     border-radius: 50%;
     background-image: url("ellipse\ 1.jpg");
     background-repeat: no-repeat;
     background-position: center;
-    background-size: cover;;
+    background-size: cover;
 }
 
 .col-4 .carousel .img1{
@@ -178,7 +178,7 @@
     background-image: url("ellipse\ 2.jpg");
     background-repeat: no-repeat;
     background-position: center;
-    background-size: cover;;
+    background-size: cover;
 }
 
 .col-4 .carousel .img2{
@@ -188,7 +188,16 @@
     background-image: url("ellipse\ 3.jpg");
     background-repeat: no-repeat;
     background-position: center;
-    background-size: cover;;
+    background-size: cover;
+}
+
+#five{
+    width:100%;
+    height:250px;
+    padding:50px;
+    background-image: url(section\ five.jpg);
+    background-position:center;
+    background-repeat: no-repeat;
 }
 
 
@@ -211,5 +220,5 @@
 
 
 @media (min-width: 1400px) { 
-    
+
 }
